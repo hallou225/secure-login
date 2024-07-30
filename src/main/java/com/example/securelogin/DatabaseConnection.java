@@ -7,7 +7,7 @@ public class DatabaseConnection {
     public Connection getConnection(){
         String databaseName = "zion_db";
         String databaseUser = "root";
-        String databasePassword = "superdev@225";
+        String databasePassword = "toor";
         String url ="jdbc:mysql://localhost:3306/" + databaseName;
 
         try{
